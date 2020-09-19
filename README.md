@@ -4,4 +4,4 @@
 Text
 
  :metal:
-![alt text](!images/armour.jpeg)
+![alt text](!images/armour.jpg)
